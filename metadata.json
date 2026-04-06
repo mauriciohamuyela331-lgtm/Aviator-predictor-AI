@@ -1,0 +1,7 @@
+{
+  "name": "Aviator Predictor AI",
+  "description": "An AI-powered tool to analyze crash game history from screenshots and suggest safe cash-out points.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
